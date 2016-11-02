@@ -1,0 +1,3 @@
+<?
+$MESS["PIMAX_FASHIONSTORE_REKOMENDUEM"] = "Рекомендуем";
+?>

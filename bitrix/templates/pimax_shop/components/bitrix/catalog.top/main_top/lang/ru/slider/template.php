@@ -1,0 +1,4 @@
+<?
+$MESS["PIMAX_FASHIONSTORE_NOVYE_POSTUPLENIA"] = "Новые поступления";
+$MESS["PIMAX_FASHIONSTORE_PROSMOTR"] = "просмотр";
+?>

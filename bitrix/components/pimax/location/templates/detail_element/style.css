@@ -1,0 +1,132 @@
+.bx-form-control {
+    position: relative;
+    display: block;
+    width: 100%;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #F8FAFC;
+    border: 1px solid #D5DADC;
+    border-radius: 2px;
+    outline: none;
+    box-shadow: none !important;
+    -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+.bx-form-control:focus {
+	border: 1px solid #D5DADC !important;
+}
+
+select.bx-form-control {
+	width: 868px;
+}
+
+ .bx-form-control-2 {
+    position: relative;
+    display: block;
+    width: 320px;
+    padding: 6px 12px;
+    font-size: 18px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    border: 0px solid #D5DADC;
+	overflow:hidden !important;
+    border-radius: 2px;
+    outline: none;
+    box-shadow: none !important;
+    -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    float: left;
+    height: 170px !important;
+}
+
+.close-input{
+    position: absolute;
+    right: 30px;
+    top: 126px;
+    border: 0px;
+    background-color: transparent;
+    font-size: 15px;
+}
+
+.bx-form-control-2 option{ cursor: pointer;}
+
+.top-bar .cnt-block{min-width: 315px;}
+
+.cnt-block .geo{
+	float: left;
+    font-size: 20px;
+	cursor: pointer;
+	min-width: 200px;
+	text-align: right;
+    padding-right: 15px;
+}
+.user-city{
+	float: right;
+	margin-left: 10px;
+	}
+.cnt-block .fa-map-marker{
+	margin-right: 10px;
+}
+
+.geo {
+    float: left;
+    cursor: pointer;
+    min-width: 250px;
+    text-align: right;
+    color: #333 !important;
+	font-size: 20px;
+	padding-right: 20px;
+}
+
+
+.cnt-block .geo2{
+
+    font-size: 20px;
+	cursor: pointer;
+	min-width: 200px;
+	text-align: left;
+    padding-right: 15px;
+}
+.ic-city{
+text-align: right;
+	}
+.cnt-block .fa-map-marker{
+	margin-right: 10px;
+}
+
+.geo2 {
+
+    
+    text-align: left;
+    color: #000;
+	font-size: 20px;
+	margin-top: 25px;
+	margin-bottom: 15px;
+}
+
+.geo2 span {
+	color: #5677aa !important;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+
+.bx-ui-sls-clear {
+    background: url(/bitrix/panel/main/images/bx-admin-sprite-small.png) 6px -3386px no-repeat scroll;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    cursor: hand;
+    margin-top: 2px;
+    position: absolute;
+    
+    display: block;
+}
+
+.bx-ui-sls-clear:hover{
+	background-position: 6px -3418px;
+}

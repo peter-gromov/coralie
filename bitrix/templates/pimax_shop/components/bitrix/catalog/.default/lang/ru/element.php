@@ -1,0 +1,6 @@
+<?
+$MESS["PIMAX_FASHIONSTORE_KUPITQ"] = "Добавить в корзину";
+$MESS["PIMAX_FASHIONSTORE_V_KORZINU"] = "В корзину";
+$MESS["PIMAX_FASHIONSTORE_PODROBNEE"] = "Подробнее";
+$MESS["PIMAX_FASHIONSTORE_NET_V_NALICII"] = "Нет в наличии";
+?>

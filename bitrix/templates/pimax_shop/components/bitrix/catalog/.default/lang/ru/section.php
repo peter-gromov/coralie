@@ -1,0 +1,9 @@
+<?
+$MESS["PIMAX_FASHIONSTORE_KATALOG_TOVAROV"] = "Каталог товаров";
+$MESS["PIMAX_FASHIONSTORE_SORTIROVATQ_PO"] = "Сортировать по";
+$MESS["PIMAX_FASHIONSTORE_NAIMENOVANIU_PO_VOZR"] = "наименованию по возрастанию";
+$MESS["PIMAX_FASHIONSTORE_NAIMENOVANIU_PO_UBYV"] = "наименованию по убыванию";
+$MESS["PIMAX_FASHIONSTORE_CENE_PO_VOZRASTANIU"] = "цене по возрастанию";
+$MESS["PIMAX_FASHIONSTORE_CENE_PO_UBYVANIU"] = "цене по убыванию";
+$MESS["PIMAX_FASHIONSTORE_NAVIGATION"] = "Навигация";
+?>

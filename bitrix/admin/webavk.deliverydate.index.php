@@ -1,0 +1,1 @@
+<? require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/webavk.deliverydate/admin/index.php");?>
